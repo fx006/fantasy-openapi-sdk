@@ -2,7 +2,7 @@
     <img src=https://img.qimuu.icu/typory/logo.gif width=188/>
 </p>
 
-<h1 align="center">Qi-API-SDK</h1>
+<h1 align="center">FANTASY-OPENAPI-SDK</h1>
 <p align="center"><strong>Qi-API 接口开放平台开发者工具包</strong></p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 ### 目录结构 📝
 
 ```text
-qiapisdk
+fantasy-openapi-sdk
     ├─client
     ├─config
     ├─exception

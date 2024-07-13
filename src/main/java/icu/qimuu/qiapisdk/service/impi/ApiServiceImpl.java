@@ -24,6 +24,7 @@ public class ApiServiceImpl extends BaseService implements ApiService {
     @Override
     public PoisonousChickenSoupResponse getPoisonousChickenSoup() throws ApiException {
         PoisonousChickenSoupRequest request = new PoisonousChickenSoupRequest();
+        log.info("branch4");
         return request(request);
     }
 

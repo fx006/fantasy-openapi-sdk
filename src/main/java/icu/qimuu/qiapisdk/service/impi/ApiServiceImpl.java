@@ -26,6 +26,7 @@ public class ApiServiceImpl extends BaseService implements ApiService {
         PoisonousChickenSoupRequest request = new PoisonousChickenSoupRequest();
         log.info("getPoisonousChickenSoup");
         log.info("branch3");
+        log.info("branch3.1");
         return request(request);
     }
 

@@ -29,6 +29,7 @@ public class ApiServiceImpl extends BaseService implements ApiService {
         log.info("branch3.1");
         log.info("getPoisonousChichenSoup2");
         log.info("branch2.1");
+        log.info("test1");
         return request(request);
     }
 
